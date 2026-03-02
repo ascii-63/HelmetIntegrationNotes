@@ -1,0 +1,4 @@
+[ 7065.712068] type=1400 audit(1772423444.966:5873): avc: denied { dac_override } for comm=75736220666673206F70656E capability=1 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=capability permissive=1
+[ 7065.712266] type=1400 audit(1772423444.966:5873): avc: denied { dac_override } for comm=75736220666673206F70656E capability=1 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=capability permissive=1
+[ 7328.235661] type=1400 audit(1772423707.486:5885): avc: denied { dac_override } for comm="sh" capability=1 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=capability permissive=1
+[ 7328.235850] type=1400 audit(1772423707.486:5885): avc: denied { dac_override } for comm="sh" capability=1 scontext=u:r:su:s0 tcontext=u:r:su:s0 tclass=capability permissive=1
